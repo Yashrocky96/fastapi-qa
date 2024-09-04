@@ -1,0 +1,10 @@
+fastapi[standard]
+
+# Document loading, retrieval methods and text splitting
+pypdf
+
+langchain
+langchain_community
+
+langchain_chroma
+langchain_ollama
